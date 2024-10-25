@@ -1,0 +1,24 @@
+4) Descubra a lógica e complete o próximo elemento:
+
+a) 1, 3, 5, 7, ___
+O proximo numero é o 9. A suequencia segue o padrão de numeros impares crescentes.
+
+
+b) 2, 4, 8, 16, 32, 64, ____
+O proximo numero é 128. O padrão é que um numero é igual ao dobro do anterior.
+
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+A distancia de um numero para o outro segue o padrão dos numeros impares crescentes. Sendo assim o prosimo numnero é o 49.
+
+
+d) 4, 16, 36, 64, ____
+A sequencia segue o padrão de quadrado dos numeros inteiros. O proximo numero é o 100.
+
+
+e) 1, 1, 2, 3, 5, 8, ____
+Essa é a sequencia de fibonacci, cada numero é igual a soma dos dois antecessores. O proximo numero da sequencia é o 13.
+
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+A diferenca dos numeros foi diminuindo. Acredito que o proximo numero seja o 20, mas não consigo explicar matematicamente.
